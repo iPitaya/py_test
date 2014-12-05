@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from intstr import IntStr
+#
 
 redis_keyer = IntStr(
 '!"#$&()+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ^_`abcdefghijklmnopqrstuvwxyz{|}~'
